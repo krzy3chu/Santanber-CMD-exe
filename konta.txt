@@ -1,0 +1,40 @@
+0
+Admin
+Admin
+630010000000
+100000
+admin
+0
+123456789
+Miasto, ul.Ulica 0
+...
+1
+Adam
+Malysz
+630010002502
+126501
+1234
+700
+546124321
+Zakopane, ul.skoczna 1
+...
+2
+Magda
+Gessler
+630010002855
+107681
+1234
+600
+650345612
+Warszawa, ul.jedzeniowa 23
+...
+3
+Andrzej
+Duda
+630010008298
+112767
+pis
+50
+112
+Warszawa, ul.wiejska 2
+...
